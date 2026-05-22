@@ -1,0 +1,3 @@
+ `__pycache__/`  #Ignore Python cache folders
+`*.pyc`         #Ignore compiled Python files
+`.env`        # Ignore secret environment files
