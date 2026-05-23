@@ -4,3 +4,9 @@ fever,cough,headache,nausea,disease
 1,0,0,0,Viral Infection
 0,1,1,0,Cold
 1,1,1,0,Dengue
+
+
+
+
+1 = symptom present
+0 = symptom absent
