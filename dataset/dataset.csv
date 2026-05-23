@@ -1,2 +1,6 @@
-symptoms 1
-symptoms 2
+fever,cough,headache,nausea,disease
+1,1,0,0,Flu
+0,0,1,1,Migraine
+1,0,0,0,Viral Infection
+0,1,1,0,Cold
+1,1,1,0,Dengue
