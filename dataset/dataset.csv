@@ -6,7 +6,5 @@ fever,cough,headache,nausea,disease
 1,1,1,0,Dengue
 
 
-
-
-1 = symptom present
-0 = symptom absent
+# 1 = symptom present
+# 0 = symptom absent
